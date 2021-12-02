@@ -15,7 +15,7 @@ The app takes either the current location of the user or it takes the address/zi
 3. GPS services turn on on the device
 
 ## How to use Food Oasis?
-1. Download the application from [HERE](https://github.com/nplimbani/FoodOasisGroupB/blob/main/Food%20Oasis.apk)
+1. Download the application from [HERE](https://github.com/nplimbani/FoodOasisGroupB/releases/download/v1.0/Food.Oasis.apk)
 2. Install the apk file on your android mobile device (As it is for the demonstrating purpose only it will ask you to install apk from third party, so allow that in setting)
 3. App is using location to suggest you the best and nearest option you need to allow the location services when asking
 4. There will be two fields for address and radius(the miles you want to travel from the specified location)
